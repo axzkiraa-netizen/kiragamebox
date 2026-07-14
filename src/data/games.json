@@ -1,0 +1,162 @@
+[
+  {
+    "id": "kick-the-buddy",
+    "title": "Kick the Buddy",
+    "description": "The ultimate stress relief game. Kick, throw, and blow up the buddy!",
+    "thumbnail": "https://i.ibb.co/VYpQ1YVZ/kick-buddy-game-new.webp",
+    "category": "Action",
+    "iframeUrl": "https://kickthebuddy.lol/play/kick-the-buddy/"
+  },
+  {
+    "id": "western-sniper",
+    "title": "Western Sniper",
+    "description": "Become the best marksman in the Wild West. Take down outlaws and protect the town.",
+    "thumbnail": "https://www5.minijuegosgratis.com/v3/games/thumbnails/252296_7_sq.jpg",
+    "category": "Action",
+    "iframeUrl": "https://play.famobi.com/western-sniper/A-MINIJUEGOS?mp_assets=https%3A%2F%2Fs2.minijuegosgratis.com%2F&mp_embed=0&mp_game_id=252296&mp_game_uid=western-sniper&mp_game_url=https%3A%2F%2Fwww.miniplay.com%2Fgame%2Fwestern-sniper&mp_int=1&mp_locale=en_US&mp_player_type=IFRAME&mp_site_https_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_site_name=miniplay.com&mp_site_url=https%3A%2F%2Fwww.miniplay.com%2F&mp_timezone=Europe%2FLondon&mp_view_type="
+  },
+  {
+    "id": "cars-arena",
+    "title": "Cars Arena",
+    "description": "Physics-based demolition derby. Stay on the platform and knock others off!",
+    "thumbnail": "https://imgs.crazygames.com/cars-arena_16x9/20260520052524/cars-arena_16x9-cover?metadata=none&quality=100&width=1200&height=630&fit=crop",
+    "category": "Racing",
+    "iframeUrl": "https://carsarena.io/game.html"
+  },
+  {
+    "id": "tag",
+    "title": "TAG",
+    "description": "A high-speed game of tag with friends or AI. Don't be 'it'!",
+    "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/32d2b1401c7a86c61fae5afeed977b37/tag-logo.png",
+    "category": "Action",
+    "iframeUrl": "https://taggame.io/game/tag/"
+  },
+  {
+    "id": "rooftop-snipers",
+    "title": "Rooftop Snipers",
+    "description": "Two-player sniper game where you have to shoot your opponent off the roof.",
+    "thumbnail": "https://gswitch3.github.io/imgs/rooftop-snipers.png",
+    "category": "Action",
+    "iframeUrl": "https://jasongamesdev.github.io/rooftop-snipers/"
+  },
+  {
+    "id": "ragdoll-archers",
+    "title": "Ragdoll Archers",
+    "description": "Physics-based archery game. Aim, shoot, and defeat your ragdoll enemies.",
+    "thumbnail": "https://i.ibb.co/kV7cr97K/ragdoll-archers.webp",
+    "category": "Action",
+    "iframeUrl": "https://jasongamesdev.github.io/ragdoll-archers/"
+  },
+  {
+    "id": "stickman-clash",
+    "title": "Stickman Clash",
+    "description": "Epic stickman fighter battle. Use your skills to win the tournament.",
+    "thumbnail": "https://i.ibb.co/dwW3sJHN/stickman-fighter-epic-battle-2-logo.webp",
+    "category": "Action",
+    "iframeUrl": "https://g2.igroutka.ru/lib/crazy/games/stickman-clash/"
+  },
+  {
+    "id": "zombie-rush",
+    "title": "Zombie Rush",
+    "description": "Defend against endless waves of zombies in this fast-paced survival shooter.",
+    "thumbnail": "https://i.ibb.co/fd48TRWB/Zombie-Rush-300x300-png.webp",
+    "category": "Action",
+    "iframeUrl": "https://gnhustgames.org/zombie-rush-source/"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "The world-famous endless runner. Dodge trains, collect coins, and outrun the inspector!",
+    "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/1c920b9279c2bedec567c1b58129ae8f/subway-surfers-logo.png",
+    "category": "Action",
+    "iframeUrl": "https://files.gamezhero.com/game/905/1d1/9051d1173be765fb/data/index.html"
+  },
+  {
+    "id": "space-waves",
+    "title": "Space Waves",
+    "description": "Navigate through challenging geometric levels in this fast-paced rhythm-based game.",
+    "thumbnail": "https://imgs.crazygames.com/space-waves_1x1/20260330040751/space-waves_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
+    "category": "Action",
+    "iframeUrl": "https://spacewaves2.org/game/space-waves/"
+  },
+  {
+    "id": "level-devil",
+    "title": "Level Devil",
+    "description": "A platformer with a mean streak. Expect the unexpected in this challenging game.",
+    "thumbnail": "https://leveldevilfull.com/level-devil.png",
+    "category": "Action",
+    "iframeUrl": "https://leveldevilfull.com/play/level-devil/"
+  },
+  {
+    "id": "blumgi-ball",
+    "title": "Blumgi Ball",
+    "description": "A fast-paced sports game where you aim, shoot, and teleport to victory.",
+    "thumbnail": "https://leveldevilfull.com/data/image/game/blumgi-ball.webp",
+    "category": "Sports",
+    "iframeUrl": "https://leveldevilfull.com/play/blumgi-ball/"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Race at break-neck speeds through ever-changing tunnels. How far can you go?",
+    "thumbnail": "https://leveldevilfull.com/data/image/game/tunnel-rush.webp",
+    "category": "Action",
+    "iframeUrl": "https://leveldevilfull.com/play/tunnel-rush/"
+  },
+  {
+    "id": "getting-over-it",
+    "title": "Getting Over It",
+    "description": "Climb a mountain with nothing but a hammer and a pot in this frustratingly fun physics game.",
+    "thumbnail": "https://leveldevilfull.com/data/image/game/getting-over-it.webp",
+    "category": "Adventure",
+    "iframeUrl": "https://leveldevilfull.com/play/getting-over-it/"
+  },
+  {
+    "id": "stickman-hook",
+    "title": "Stickman Hook",
+    "description": "Swing like a spider and fly through the levels with incredible agility.",
+    "thumbnail": "https://leveldevilfull.com/data/image/game/stickman-hook.webp",
+    "category": "Action",
+    "iframeUrl": "https://leveldevilfull.com/play/stickman-hook/"
+  },
+  {
+    "id": "bloxd-io",
+    "title": "Bloxd.io",
+    "description": "A Minecraft-inspired sandbox game with multiple modes and endless building possibilities.",
+    "thumbnail": "https://www.bloxd.net/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.8f78db98.png&w=32&q=75",
+    "category": "Adventure",
+    "iframeUrl": "https://bloxd.io"
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "description": "Wacky basketball physics with random courts, players, and rules.",
+    "thumbnail": "https://basketrandom.io/cache/data/image/basket-random-m150x150.webp",
+    "category": "Sports",
+    "iframeUrl": "https://html5.gamedistribution.com/rvvASMiM/bf1268dccb5d43e7970bb3edaa54afc8/index.html?gd_sdk_referrer_url=https%3A%2F%2Fbasketrandom.io%2Fbasket-random"
+  },
+  {
+    "id": "screw-out",
+    "title": "Screw Out: N&B",
+    "description": "Unscrew nuts and bolts to clear the levels in this satisfying puzzle game.",
+    "thumbnail": "https://crazygames.cdn.msnfun.com/9nvd4v66kdj7/v5/logo.png",
+    "category": "Puzzle",
+    "iframeUrl": "https://crazygames.cdn.msnfun.com/9nvd4v66kdj7/v5/index.html?msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIwRkQ4MTlBQ0EwRkI2RDg1MDAxNjBFRjNBMTExNkNGRCIsImxvY2FsZSI6ImVuLWdiIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjludmQ0djY2a2RqNyIsInZhbHVlIjp7fX19"
+  },
+  {
+    "id": "fragen",
+    "title": "Fragen",
+    "description": "Test your knowledge in this fast-paced trivia challenge.",
+    "thumbnail": "https://imgs.search.brave.com/jBY1szZUy-bJYpD3OE1nMDUCLC3NUvF52bGnmppV3zA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b25saW5lZ2FtZXMu/aW8vbWVkaWEvcG9z/dHMvMTA0MC9mcmFn/ZW4tZ2FtZS53ZWJw",
+    "category": "Puzzle",
+    "iframeUrl": "https://crazygames.cdn.msnfun.com/9nf0clvx79hg/v1/index.html?msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIwRkQ4MTlBQ0EwRkI2RDg1MDAxNjBFRjNBMTExNkNGRCIsImxvY2FsZSI6ImVuLWdiIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjluZjBjbHZ4NzloZyIsInZhbHVlIjp7fX19"
+  },
+  {
+    "id": "ragdoll-hit",
+    "title": "Ragdoll Hit",
+    "description": "Physics-based combat game where you hit ragdolls to win.",
+    "thumbnail": "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/3c892779be9dabb3589586c83ad3eeed/ragdoll-hit-logo.png",
+    "category": "Action",
+    "iframeUrl": "https://freetoplayz.github.io/ragdoll-hit/"
+  }
+]
