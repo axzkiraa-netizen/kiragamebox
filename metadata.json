@@ -1,0 +1,8 @@
+{
+  "name": "kira.game",
+  "description": "A premium, high-performance portal for unblocked web games with category filtering and real-time search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
